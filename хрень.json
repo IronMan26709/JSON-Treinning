@@ -1,17 +1,1 @@
-{
-  "array": [
-    1,
-    2,
-    3
-  ],
-  "boolean": true,
-  "color": "#82b92c",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d",
-    "e": "f"
-  },
-  "string": "Hello World"
-}
+"[{"name":"div","class":"newdiv","style":"display: inline-block; margin:5px; border: 5px solid black; width: 100px; height: 100px;"},{"name":"section","class":"newsection","style":"display: inline-block; margin:5px; border: 5px solid black; width: 100px; height: 100px;"},{"name":"article","class":"newarticle","style":"display: inline-block; margin:5px; border: 5px solid black; width: 100px; height: 100px;"},{"name":"h1","class":"newh1","style":"display: inline-block; margin:5px; border: 5px solid black; width: 100px; height: 100px;"},{"name":"p","class":"newp","style":"display: inline-block; margin:5px; border: 5px solid black; width: 100px; height: 100px;"}]"
